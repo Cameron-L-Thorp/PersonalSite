@@ -69,6 +69,15 @@ li a:hover {
     vertical-align: top;
 }
 
+.tridiv {
+    width: 30%;
+    display: inline-block;
+    background-color: rgba(173,173,173,0.75);
+    border: 3px, ridge white;
+    margin-top:3%;
+    vertical-align: top;
+}
+
 .secondlidiv{
     float:right;
 }
