@@ -139,8 +139,9 @@ p {
 }
 
 .Diligencepage {
-    background-image: url('HomeBkgd.png');
+    background-image: url('DiligenceBkgd.png');
     background-size: cover;
+    background-position-y:30%;
     font-family:'Bell MT';
 }
 
