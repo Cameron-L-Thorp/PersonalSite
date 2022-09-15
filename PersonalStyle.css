@@ -70,12 +70,17 @@ li a:hover {
 }
 
 .tridiv {
-    width: 30%;
+    width: 32%;
     display: inline-block;
     background-color: rgba(173,173,173,0.75);
-    border: 3px, ridge white;
+    border: 3px ridge white;
     margin-top:3%;
     vertical-align: top;
+}
+
+.pageFormat {
+    margin-left:1%;
+    
 }
 
 .secondlidiv{
@@ -121,6 +126,11 @@ p {
     float: left;
     width: 40%;
     margin: 20px;
+    border: 2px ridge lightgray;
+}
+
+.fitImg {
+    width: 100%;
     border: 2px ridge lightgray;
 }
 
